@@ -1,4 +1,17 @@
 # shyun51.github.io
+# Snake Game
+
+This is a simple Snake Game implemented using HTML5 and JavaScript. Below is the code explanation and structure.
+
+## Game Description
+- **Canvas**: The game uses an HTML5 `<canvas>` element for rendering the snake and food.
+- **Snake Movement**: Controlled by arrow keys (`ArrowUp`, `ArrowDown`, `ArrowLeft`, `ArrowRight`).
+- **Food**: Randomly placed on the grid, and the snake grows when it eats food.
+- **Game Over**: The game ends if the snake collides with the walls or itself.
+
+## Code Structure
+### HTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
