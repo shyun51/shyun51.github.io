@@ -1,4 +1,5 @@
-![Banner]
+![Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+
 
 # 안녕하세요, 김시현입니다! 👋
 
@@ -14,6 +15,7 @@
 - [✨ 김시현의 모토](#-김시현의-모토)
 - [🤝 협업을 원하시나요?](#-협업을-원하시나요)
 - [🌐 Follow Me](#-follow-me)
+- [👥 Visitor Count](#=visitor-count)
 
 ---
 
@@ -82,4 +84,5 @@
 
 ---
 
+## 👥 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/shyun51/count.svg)
