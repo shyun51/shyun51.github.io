@@ -13,6 +13,7 @@ Python을 중심으로 기술을 배우며, 창의성과 열정으로 새로운 
 - 🎯 **목표**: 독창적인 앱 개발 및 성공적인 창업  
 - 📫 **연락처**: si.start0510@gmail.com
 
+
 ---
 
 ## 💻 기술 스택
@@ -31,7 +32,7 @@ Python을 중심으로 기술을 배우며, 창의성과 열정으로 새로운 
 ## 🛠️ 프로젝트
 
 ### 🌟 주요 앱 아이디어
-- 🎨 **낙서 앱**  
+- 🎨 **낙서 앱**  *(계획 중)*
   자유롭게 낙서를 기록하고 저장할 수 있는 SNS 기반의 창의적인 소셜 플랫폼입니다.  
   *기능*: 낙서 공유, 커뮤니티 댓글, 이미지 기반 저장
 
@@ -52,8 +53,8 @@ Python을 중심으로 기술을 배우며, 창의성과 열정으로 새로운 
 
 ## ✨ 김시현의 모토
 
-> **“끝까지 사랑하리”**  
-> - 언제나 열정과 끈기로 목표를 향해 나아갑니다.
+> **“주님처럼 사랑하리”**  
+> - 언제나 열정과 끈기로, 그 가운데 사랑으로, 목표를 향해 나아갑니다.
 
 ---
 
@@ -66,6 +67,5 @@ Python을 중심으로 기술을 배우며, 창의성과 열정으로 새로운 
 
 ## 🌐 Follow Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyun51)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sl_hye0n)
